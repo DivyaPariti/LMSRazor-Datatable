@@ -27,3 +27,8 @@ For more information about the used technologies check the below links:
 
 # 📸 Snippets
 
+
+DataTables:
+
+
+![LMSR](https://user-images.githubusercontent.com/65856784/177616992-05cbd41a-df89-41a6-a5bd-29991aafaf38.png)
